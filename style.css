@@ -1,0 +1,24 @@
+body{
+
+   background-color: cadetblue;
+
+}
+
+
+h1{
+    background-color: burlywood;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+a{
+
+    background-color: brown;
+    color: antiquewhite;
+    width: 200px;
+    border-radius: 20px 8px 30px 0px;
+    padding: 20px;
+    margin-right: 100px;
+
+}
